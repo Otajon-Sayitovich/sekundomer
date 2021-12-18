@@ -1,0 +1,24 @@
+.container{
+    height: 100vh;
+    padding-top: 100px;
+}
+
+.clock{
+    border: 2px solid silver;
+    border-radius: 35px;
+    width: 30%;
+    height: 250px;
+    box-shadow: 3px 3px 25px 0px silver;
+    margin: 0 auto;
+    padding-top: 85px;
+}
+
+#sekund{
+    color: wheat;
+    margin: auto;
+}
+
+.forma{
+    width: 20%;
+    margin: auto;
+}
